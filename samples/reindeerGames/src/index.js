@@ -21,69 +21,69 @@
  */
 var questions = [
     {
-        "Reindeer have very thick coats, how many hairs per square inch do they have?": [
+        "Houstonian John Milkovisch really loved beer and covered his home, now called the Beer Can House, with how many cans he consumed over 18 years?": [
             "13,000",
-            "1,200",
-            "5,000",
-            "700",
-            "1,000",
+            "10,200",
+            "50,000",
+            "39,000",
+            "100,000",
             "120,000"
         ]
     },
     {
-        "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in:": [
-            "Japan",
-            "United States",
-            "Finland",
-            "Germany"
+        "What is the name of a small bar tucked inside a basement of a Rice University campus building?": [
+            "Owls Nest",
+            "The Basement",
+            "Valhalla",
+            "The Library"
         ]
     },
     {
-        "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-            "Wunorse Openslae",
-            "Alabaster Snowball",
-            "Bushy Evergreen",
-            "Pepper Minstix"
+        "What park located alongside of Highway 288 contains enormous monster sculptures including a daddy long legs and a hippo who keep watch over a Texas pipe works—and occasional cause traffic accidents?": [
+            "Braes Bayou Park",
+            "The Eclectic Menagerie Park",
+            "The Bushy Evergreen Park",
+            "John Skurlock Park"
         ]
     },
     {
-        "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be:": [
-            "Girls",
-            "Boys",
-            "Girls and boys",
-            "No way to tell"
+        "Every night how many Mexican free-tailed bats come out from under Waugh Drive Bridge to hunt for mosquitos?": [
+            "100,000",
+            "250,000",
+            "500,000",
+            "750,000"
         ]
     },
     {
-        "What do Reindeer eat?": [
-            "Lichen",
-            "Grasses",
-            "Leaves",
-            "Berries"
+        "The Viet Hoa supermarket offers a massive collection of hard-to-find International foods, including…": [
+            "Fresh Cats",
+            "Stuffed Dogs",
+            "Live Frogs",
+            "Spotted Bass"
         ]
     },
     {
-        "What of the following is not true?": [
-            "Caribou live on all continents",
-            "Both reindeer and Caribou are the same species",
-            "Caribou are bigger than reindeer",
-            "Reindeer live in Scandinavia and Russia"
+        "Which of the following is not true?": [
+            "There is a burping bubble in the Buffalo Bayou, underneath the Preston St. Bridge. It is operated by a nondescript red button in a tower on the bridge, just begging to be pressed. ",
+            "The Port of Houston offers free 90-minute cruises aboard the M V Sam Houston. ",
+            "The Swaminarayan Mandir is the first traditional Hindu Mandir in the nation. It was constructed in India of 33,000 pieces of Italian marble and Turkish limestone that was carved by hand and assembled in 16 months. It was then shipped over to Houston, where it was assembled like a puzzle.",
+            "A massive underground cistern was discovered a few years ago under what is now the Sky Lawn at the Water Works. The Cistern was built in 1927 and provides drinking water to Houstonians."
         ]
     },
     {
-        "In what year did Rudolph make his television debut?": [
+        "The first word spoken from the moon was Houston in what year?": [
             "1964",
-            "1979",
-            "2000",
-            "1956"
+            "1969",
+            "1973",
+            "1978"
         ]
     },
     {
-        "Who was the voice of Rudolph in the 1964 classic?": [
-            "Billie Mae Richards",
-            "Burl Ives",
-            "Paul Soles",
-            "Lady Gaga"
+        "The Houston's second-oldest building, established in 1847, was once a Pony Express station, a bakery, a Native American trading post, a Mexican hair salon, a bordello, a boarding house used by Sam Houston, and the hangout of people like Debbie Reynolds, Johnny Mathis, James Baldwin, and Liberace. It now houses what?": [
+            "The oldest collection of Houston Sports Memorabilia",
+            "La Carafe the oldest bar in Houston",
+            "A shelter for the homeless",
+            "Houston largest collection of cowboy boots"
         ]
     },
     {
